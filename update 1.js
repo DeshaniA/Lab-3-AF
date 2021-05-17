@@ -1,0 +1,1 @@
+db.Sliit.update({},{$set: {"isActive": false}})

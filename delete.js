@@ -1,0 +1,1 @@
+db.Sliit.deleteOne({"name":"Smith"})
